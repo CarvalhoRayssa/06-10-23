@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "modelo": "Boeing 737",
+        "fabricante": "Boeing",
+        "ano": 2010
+    },
+    {
+        "id": 2,
+        "modelo": "Airbus A320",
+        "fabricante": "Airbus",
+        "ano": 2008
+    },
+    {
+        "id": 3,
+        "modelo": "Embraer E190",
+        "fabricante": "Embraer",
+        "ano": 2015
+    },
+    {
+        "id": 4,
+        "modelo": "Boeing 777",
+        "fabricante": "Boeing",
+        "ano": 2005
+    },
+    {
+        "id": 5,
+        "modelo": "Airbus A350",
+        "fabricante": "Airbus",
+        "ano": 2017
+    },
+    {
+        "id": 6,
+        "modelo": "Boeing 747",
+        "fabricante": "Boeing",
+        "ano": 2000
+    },
+    {
+        "id": 7,
+        "modelo": "Embraer E175",
+        "fabricante": "Embraer",
+        "ano": 2012
+    },
+    {
+        "id": 8,
+        "modelo": "Airbus A330",
+        "fabricante": "Airbus",
+        "ano": 2007
+    },
+    {
+        "id": 9,
+        "modelo": "Bombardier CRJ900",
+        "fabricante": "Bombardier",
+        "ano": 2014
+    },
+    {
+        "id": 10,
+        "modelo": "ATR 72",
+        "fabricante": "ATR",
+        "ano": 2016
+    }
+]
